@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806585754743",
+    "firebase_url": "https://brew-crew-2b501.firebaseio.com",
+    "project_id": "brew-crew-2b501",
+    "storage_bucket": "brew-crew-2b501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806585754743:android:873d8967b3da9790641272",
+        "android_client_info": {
+          "package_name": "com.edburtnieks.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806585754743-3va6facr4c3dc6kf3jvlll25r68tq4sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqsbSoD0QuSqgsjrARTe6HTYFMhI_69ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806585754743-3va6facr4c3dc6kf3jvlll25r68tq4sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
